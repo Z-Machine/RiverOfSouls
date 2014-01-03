@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5032"
-	"mapversion" "535"
+	"mapversion" "576"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "535"
+	"mapversion" "576"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1394,9 +1394,9 @@ world
 					"row5" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row6" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row7" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
-					"row8" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
-					"row9" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
-					"row10" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+					"row8" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+					"row9" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+					"row10" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row11" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row12" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row13" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
@@ -1414,9 +1414,9 @@ world
 					"row5" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row6" "128 128 128 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row7" "128 128 128 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
-					"row8" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
-					"row9" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
-					"row10" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
+					"row8" "256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
+					"row9" "256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
+					"row10" "256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row11" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row12" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row13" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
@@ -1493,10 +1493,10 @@ world
 					"row4" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row5" "9 9 9 9 9 0 1 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row6" "9 9 9 9 1 1 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row7" "9 9 9 9 1 1 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row8" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row9" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row10" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row7" "9 9 9 9 1 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row8" "9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row9" "9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row10" "9 9 9 9 9 0 1 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row11" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row12" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row13" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
@@ -1517,9 +1517,9 @@ world
 					"row5" "0 0 1 0 0 0 1 0 0 0 1 0 0.00359643 0 0.996404 0 0.0841779 0 0.915822 0 0.961298 0 0.0387025 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.058006 0 0.941994 0 0 0 1 0"
 					"row6" "0 0 0.815899 0.184101 0 0 0.668038 0.331962 0 0 0.101888 0.898112 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0.174926 0 0 0.825074 0.388024 0 0 0.611976 0.838625 0 0 0.161375 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0"
 					"row7" "0 0 0.400508 0.599492 0 0 0.202925 0.797075 0 0 0 1 0.106407 0 0 1 0.322439 0 0 1 0.182082 0 0 0.817918 0.931134 0 0 0.0688664 0.9874 0 0 0.0126 1 0 0 0 1 0 0 0 0.822529 0.177471 0 0 0.684994 0.32568 0 0 0.419558 1 0 0 0.0142262 1 0 0 0.362778 0.669159 0 0 0 0 1 0 0 0 1 0"
-					"row8" "0 0 1 0 0 0 1 0 0 0 1 0 0.0126212 0 0.987379 0 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.963751 0.0362486 0 0 0.505972 0.678502 0 0 0.123799 1 0 0 0 1 0 0 0 1 0 0 0.368211 0.859858 0 0 0 0.0587589 1 0 0 0 1 0"
-					"row9" "0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0.0612416 0 0.938758 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.844478 0.155522 0 0 0.600781 0.39922 0 0 0.282618 0.901316 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.452276 0.942391 0 0 0 1 0"
-					"row10" "0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.821432 0 0 0 1 0 0.979102 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.862244 0.137756 0 0 0.86231 0.13769 0 0 0.360789 0.639212 0 0 0.0882454 0.911754 0 0 0 0.298501 1 0 0 0 1 0"
+					"row8" "0 0 1 0 0 0 1 0 0 0 1 0 0.0126212 0 0.987379 0 1 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.963751 0.0362486 0 0 0.505972 0.678502 0 0 0.123799 1 0 0 0 1 0 0 0 1 0 0 0.368211 0.859858 0 0 0 0.0587589 1 0 0 0 1 0"
+					"row9" "0 0 1 0 0 0 1 0 0 0 1 0 0.741313 0 1 0 1 0 0.938758 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.844478 0.155522 0 0 0.600781 0.39922 0 0 0.282618 0.901316 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.452276 0.942391 0 0 0 1 0"
+					"row10" "0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.821432 0 1 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.862244 0.137756 0 0 0.86231 0.13769 0 0 0.360789 0.639212 0 0 0.0882454 0.911754 0 0 0 0.298501 1 0 0 0 1 0"
 					"row11" "0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.820719 0 0 0 0.868419 0 0.839312 0 0 0 0.892593 0 0 0 0.945806 0 0 0 0.999357 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.90203 0.0979703 0 0 0.74839 0.251609 0 0 0.0824935 0.0374905 0.880016 0 0 0 1 0"
 					"row12" "0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.836958 0 0.132558 0 0.601251 0 0.778567 0 0 0 0.822382 0 0 0 0.867232 0 0 0 0.913294 0 0 0 0.963819 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.246097 0 0.753903 0 0 0 1 0"
 					"row13" "0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.932557 0 0.272283 0 0.391065 0 0.707527 0 0 0 0.753483 0 0 0 0.801636 0 0 0 0.846772 0 0 0 0.915199 0 0 0 0.99343 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0.267281 0 1 0 0 0 1 0"
@@ -1720,8 +1720,8 @@ world
 					"row4" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row5" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row6" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
-					"row7" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
-					"row8" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+					"row7" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+					"row8" "0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row9" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row10" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
 					"row11" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
@@ -1740,8 +1740,8 @@ world
 					"row4" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row5" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row6" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
-					"row7" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
-					"row8" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
+					"row7" "256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
+					"row8" "256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row9" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row10" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
 					"row11" "256 256 256 256 0 0 0 0 0 0 0 0 0 0 0 0 256"
@@ -1819,9 +1819,9 @@ world
 					"row3" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row4" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row5" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row6" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row7" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
-					"row8" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row6" "9 9 9 9 0 1 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row7" "9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
+					"row8" "9 9 9 9 9 0 1 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row9" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row10" "9 9 9 9 9 9 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
 					"row11" "9 0 0 0 0 0 0 0 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0"
@@ -2822,8 +2822,8 @@ entity
 {
 	"id" "3535"
 	"classname" "info_player_start_goodguys"
-	"angles" "0 0 0"
-	"origin" "-1024 -384 8"
+	"angles" "0 152.5 0"
+	"origin" "-1265.77 361.23 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2836,8 +2836,8 @@ entity
 {
 	"id" "3537"
 	"classname" "info_player_start_goodguys"
-	"angles" "0 0 0"
-	"origin" "-1152 -192 8"
+	"angles" "0 152.5 0"
+	"origin" "-1240.88 131.82 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2850,8 +2850,8 @@ entity
 {
 	"id" "3539"
 	"classname" "info_player_start_goodguys"
-	"angles" "0 0 0"
-	"origin" "-1280 0 8"
+	"angles" "0 152.5 0"
+	"origin" "-1216 -97.59 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2864,8 +2864,8 @@ entity
 {
 	"id" "3541"
 	"classname" "info_player_start_goodguys"
-	"angles" "0 0 0"
-	"origin" "-1152 192 8"
+	"angles" "0 152.5 0"
+	"origin" "-1418.19 -208.79 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2878,8 +2878,8 @@ entity
 {
 	"id" "3543"
 	"classname" "info_player_start_goodguys"
-	"angles" "0 0 0"
-	"origin" "-1024 384 8"
+	"angles" "0 152.5 0"
+	"origin" "-1620.39 -320 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2892,8 +2892,8 @@ entity
 {
 	"id" "3565"
 	"classname" "info_player_start_badguys"
-	"angles" "0 180 0"
-	"origin" "1024 -384 8"
+	"angles" "0 9 0"
+	"origin" "1425.93 581.45 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2906,8 +2906,8 @@ entity
 {
 	"id" "3567"
 	"classname" "info_player_start_badguys"
-	"angles" "0 180 0"
-	"origin" "1152 -192 8"
+	"angles" "0 9 0"
+	"origin" "1329.54 371.79 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2920,8 +2920,8 @@ entity
 {
 	"id" "3569"
 	"classname" "info_player_start_badguys"
-	"angles" "0 180 0"
-	"origin" "1280 0 8"
+	"angles" "0 9 0"
+	"origin" "1219.93 141.83 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2934,8 +2934,8 @@ entity
 {
 	"id" "3571"
 	"classname" "info_player_start_badguys"
-	"angles" "0 180 0"
-	"origin" "1152 192 8"
+	"angles" "0 9 0"
+	"origin" "1389.61 -7.48 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -2948,8 +2948,8 @@ entity
 {
 	"id" "3573"
 	"classname" "info_player_start_badguys"
-	"angles" "0 180 0"
-	"origin" "1024 384 8"
+	"angles" "0 9 0"
+	"origin" "1546.07 -177.09 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -4510,7 +4510,7 @@ entity
 {
 	"id" "18891"
 	"classname" "prop_dynamic"
-	"angles" "0 0 0"
+	"angles" "0 346 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -4535,7 +4535,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-2048 640 0.0738373"
+	"origin" "-2124.9 676.619 0.0738373"
 	editor
 	{
 		"color" "220 30 220"
@@ -4548,7 +4548,7 @@ entity
 {
 	"id" "18895"
 	"classname" "prop_dynamic"
-	"angles" "0 0 0"
+	"angles" "0 7 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -4573,7 +4573,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-2048 128 0.0738373"
+	"origin" "-2205.46 149.971 0.0738373"
 	editor
 	{
 		"color" "220 30 220"
@@ -5380,7 +5380,7 @@ entity
 {
 	"id" "19613"
 	"classname" "prop_dynamic"
-	"angles" "0 180 0"
+	"angles" "0 159.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -5405,7 +5405,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "2071.93 128 0.0738373"
+	"origin" "2117.7 222.599 0.0738373"
 	editor
 	{
 		"color" "220 30 220"
@@ -5418,7 +5418,7 @@ entity
 {
 	"id" "19617"
 	"classname" "prop_dynamic"
-	"angles" "0 180 0"
+	"angles" "0 204.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -5443,7 +5443,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "2071.93 640 0.0738373"
+	"origin" "2114.65 670.516 0.0738373"
 	editor
 	{
 		"color" "220 30 220"
@@ -6279,7 +6279,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "369.663 -825.477 -228.678"
+	"origin" "355.535 -829.009 -228.678"
 	editor
 	{
 		"color" "220 30 220"
@@ -6317,7 +6317,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "389.848 -1279.8 -256"
+	"origin" "359.332 -1267.59 -256"
 	editor
 	{
 		"color" "220 30 220"
@@ -9637,7 +9637,7 @@ entity
 {
 	"id" "23618"
 	"classname" "prop_dynamic"
-	"angles" "0 151 0"
+	"angles" "0 116.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -9662,7 +9662,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-1856 64 0"
+	"origin" "-1929.96 576.037 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -9738,7 +9738,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-1856 -192 0"
+	"origin" "-1772.08 -250.488 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -10202,23 +10202,6 @@ entity
 }
 entity
 {
-	"id" "24166"
-	"classname" "ent_dota_tree"
-	"angles" "0 0 0"
-	"body" "1"
-	"model" "models/props_tree/dire_tree002.mdl"
-	"origin" "1920 320 0"
-	"rendercolor" "255 255 255"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3500]"
-	}
-}
-entity
-{
 	"id" "24168"
 	"classname" "ent_dota_tree"
 	"angles" "0 307 0"
@@ -10351,67 +10334,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 3500]"
-	}
-}
-entity
-{
-	"id" "24224"
-	"classname" "ent_dota_tree"
-	"angles" "0 192 0"
-	"body" "1"
-	"model" "models/props_tree/dire_tree002.mdl"
-	"origin" "1837.45 130.19 0"
-	"rendercolor" "255 255 255"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3500]"
-	}
-}
-entity
-{
-	"id" "24244"
-	"classname" "ambient_creatures"
-	"angles" "0 23 0"
-	"DefaultAnim" "wildlife_birdsmall003_idle005"
-	"DisableBoneFollowers" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"HoldAnimation" "0"
-	"MaxAnimTime" "10"
-	"maxdxlevel" "0"
-	"MinAnimTime" "5"
-	"mindxlevel" "0"
-	"model" "models/props_wildlife/wildlife_birdsmall005.mdl"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"ScriptedMovement" "0"
-	"SetBodyGroup" "0"
-	"showatday" "1"
-	"showatnight" "0"
-	"skin" "0"
-	"solid" "0"
-	"spawnflags" "0"
-	"targetname" "bird"
-	"origin" "-2078.56 -198.886 220.384"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -5268]"
 	}
 }
 entity
@@ -11145,7 +11067,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "1792 384 -39.9956"
+	"origin" "1756.44 841.593 -39.9956"
 	editor
 	{
 		"color" "220 30 220"
@@ -11297,7 +11219,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "1792 256 -17.6691"
+	"origin" "1756.44 713.593 -17.6691"
 	editor
 	{
 		"color" "220 30 220"
@@ -11335,7 +11257,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "1767.89 375.962 -17.6691"
+	"origin" "1732.33 833.555 -17.6691"
 	editor
 	{
 		"color" "220 30 220"
@@ -13074,6 +12996,7 @@ entity
 	"showatday" "1"
 	"showatnight" "1"
 	"solid" "6"
+	"spawnflags" "0"
 	"start_active" "1"
 	"targetname" "fx_lamp"
 	"origin" "1554.81 1918.61 75.943"
@@ -13317,10 +13240,10 @@ entity
 {
 	"id" "28043"
 	"classname" "env_soundscape"
-	"radius" "704"
+	"radius" "960"
 	"soundscape" "dire_pit"
 	"targetname" "dire_pit"
-	"origin" "1925.58 -1451.54 320"
+	"origin" "2176 -1472 512"
 	editor
 	{
 		"color" "220 30 220"
@@ -14080,7 +14003,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-1874.6 476.034 6.53784"
+	"origin" "-1830.6 552.681 6.53784"
 	editor
 	{
 		"color" "220 30 220"
@@ -14131,7 +14054,7 @@ entity
 {
 	"id" "30657"
 	"classname" "prop_dynamic"
-	"angles" "0 169 0"
+	"angles" "0 125.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -14156,7 +14079,7 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-1732.14 336.692 0"
+	"origin" "-1411.49 310.393 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -14221,7 +14144,7 @@ entity
 	"StartV" "1"
 	"uv0" "-261.396 -182.237 0"
 	"uv1" "-256.455 290.206 0"
-	"uv2" "237.954 34.2852 0"
+	"uv2" "237.954 34.2851 0"
 	"uv3" "279.898 -142.254 0"
 	"origin" "-1632.1 -593.689 0"
 	editor
@@ -14784,7 +14707,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"spawnflags" "0"
-	"origin" "640 1792 8.00001"
+	"origin" "636.462 1792 -1.52588e-005"
 	editor
 	{
 		"color" "220 30 220"
@@ -14827,7 +14750,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"spawnflags" "0"
-	"origin" "1839.99 1169.52 8.00002"
+	"origin" "1836.45 1169.52 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -14870,7 +14793,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"spawnflags" "0"
-	"origin" "1859.54 407.047 8.00001"
+	"origin" "1771.23 864.429 -1.52588e-005"
 	editor
 	{
 		"color" "220 30 220"
@@ -14913,7 +14836,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"spawnflags" "0"
-	"origin" "1826.71 -747.831 8.00001"
+	"origin" "1823.17 -747.831 -1.52588e-005"
 	editor
 	{
 		"color" "220 30 220"
@@ -14926,7 +14849,7 @@ entity
 {
 	"id" "32715"
 	"classname" "ambient_creatures"
-	"angles" "0 208 0"
+	"angles" "0 35 0"
 	"DefaultAnim" "wildlife_millipede001_idle"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14956,7 +14879,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"spawnflags" "0"
-	"origin" "628.584 -133.502 8.00001"
+	"origin" "640 -133.502 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -15419,6 +15342,2054 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33047"
+	"classname" "prop_dynamic"
+	"angles" "0 178.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "421.423 1564.31 -3.30515"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33063"
+	"classname" "prop_dynamic"
+	"angles" "0 226.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "832 1856 -3.30515"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33071"
+	"classname" "prop_dynamic"
+	"angles" "0 281.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "640 1920 -3.30515"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33083"
+	"classname" "prop_dynamic"
+	"angles" "0 281.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1381.24 1769.74 0.283867"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33091"
+	"classname" "prop_dynamic"
+	"angles" "0 238.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1849.54 871.314 0.283836"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33103"
+	"classname" "prop_dynamic"
+	"angles" "0 160.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1829.98 -350.417 0.283836"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33111"
+	"classname" "prop_dynamic"
+	"angles" "0 238.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1740.42 -230.132 0.283897"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33134"
+	"classname" "prop_dynamic"
+	"angles" "0 238.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1779.87 640.911 -1.52588e-005"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33138"
+	"classname" "prop_dynamic"
+	"angles" "0 238.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "883.592 1739.52 -1.52588e-005"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33142"
+	"classname" "prop_dynamic"
+	"angles" "0 340.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "505.73 1867.54 1.52588e-005"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33158"
+	"classname" "prop_dynamic"
+	"angles" "0 340.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "462.493 151.951 -1.52588e-005"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33162"
+	"classname" "prop_dynamic"
+	"angles" "0 340.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "526.139 -1535.18 7.62939e-006"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33166"
+	"classname" "prop_dynamic"
+	"angles" "0 276.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "437.92 -707.543 -7.62939e-006"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33182"
+	"classname" "prop_dynamic"
+	"angles" "0 276.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "420.247 -812.679 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33201"
+	"classname" "prop_dynamic"
+	"angles" "0 276.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1906.1 -1159.26 0.057888"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33205"
+	"classname" "prop_dynamic"
+	"angles" "0 216.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1872.74 -697.871 0.057888"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33213"
+	"classname" "prop_dynamic"
+	"angles" "0 5.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1905.38 -156.143 0.0578575"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33225"
+	"classname" "prop_dynamic"
+	"angles" "0 303.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1769.95 1010.45 0.057827"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33233"
+	"classname" "prop_dynamic"
+	"angles" "0 276.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1349.05 1820.59 0.057888"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33237"
+	"classname" "prop_dynamic"
+	"angles" "0 276.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_wild_00.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "751.848 1865.43 0.0578575"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33241"
+	"classname" "prop_dynamic"
+	"angles" "0 276.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_morel.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "835.514 1788.25 0.0578575"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33256"
+	"classname" "prop_dynamic"
+	"angles" "0 334.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_morel.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "525.353 1743.4 0.260754"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33272"
+	"classname" "prop_dynamic"
+	"angles" "0 307.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_morel.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "543.588 1090.85 -4.58438"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33284"
+	"classname" "prop_dynamic"
+	"angles" "0 258.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/mushroom_morel.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "444.741 -955.177 -4.95154"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33425"
+	"classname" "prop_dynamic"
+	"angles" "0 59.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/pinecones_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "-903.157 -1649.85 2.73407"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33429"
+	"classname" "prop_dynamic"
+	"angles" "0 13.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/pinecones_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "-1794.3 -756.552 2.7341"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33437"
+	"classname" "prop_dynamic"
+	"angles" "0 59.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/pinecones_03.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "-1604.4 701.48 2.7341"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33448"
+	"classname" "prop_dynamic"
+	"angles" "0 109.526 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/pinecones_01.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "-1289.69 1496.05 2.7341"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33460"
+	"classname" "prop_dynamic"
+	"angles" "0 59.026 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0.0"
+	"fademindist" "-1.0"
+	"fadescale" "1.0"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/props_nature/pinecones_02.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "-867.218 1629.31 2.7341"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[11000 10000]"
+	}
+}
+entity
+{
+	"id" "33475"
+	"classname" "ambient_creatures"
+	"angles" "0 52.5 0"
+	"DefaultAnim" "wildlife_spider001_path001"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_spider001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "0"
+	"showatnight" "1"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"origin" "1609.09 -1441.98 -2.28882e-005"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-5268 1000]"
+	}
+}
+entity
+{
+	"id" "33477"
+	"classname" "env_soundscape"
+	"radius" "960"
+	"soundscape" "dire_center"
+	"targetname" "dire_center"
+	"origin" "1280 0 512"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-1268 -5768]"
+	}
+}
+entity
+{
+	"id" "33526"
+	"classname" "ambient_creatures"
+	"angles" "0 247 0"
+	"DefaultAnim" "wildlife_varmint001_path001"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_varmint001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "varmint"
+	"origin" "-1398.66 -1653.27 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 3000]"
+	}
+}
+entity
+{
+	"id" "33530"
+	"classname" "ambient_creatures"
+	"angles" "0 93.5 0"
+	"DefaultAnim" "wildlife_varmint001_path001"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_varmint001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "varmint"
+	"origin" "-700.55 -1592.61 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 3000]"
+	}
+}
+entity
+{
+	"id" "33536"
+	"classname" "ambient_creatures"
+	"angles" "0 93.5 0"
+	"DefaultAnim" "wildlife_varmint001_path001"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_varmint001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "varmint"
+	"origin" "-1728 128 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 3000]"
+	}
+}
+entity
+{
+	"id" "33538"
+	"classname" "ambient_creatures"
+	"angles" "0 300 0"
+	"DefaultAnim" "wildlife_varmint001_path001"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_varmint001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "varmint"
+	"origin" "-1052.39 1583.9 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 3000]"
+	}
+}
+entity
+{
+	"id" "33562"
+	"classname" "ambient_creatures"
+	"angles" "0 306 0"
+	"DefaultAnim" "wildlife_spider001_path001"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_spider001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "0"
+	"showatnight" "1"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"origin" "599.547 -182.22 -7.62939e-006"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-5268 1000]"
+	}
+}
+entity
+{
+	"id" "33606"
+	"classname" "env_soundscape"
+	"radius" "960"
+	"soundscape" "radiant_center"
+	"targetname" "radiant_center"
+	"origin" "-1280 0 512"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-1268 -5768]"
+	}
+}
+entity
+{
+	"id" "33700"
+	"classname" "ambient_creatures"
+	"angles" "0 23 0"
+	"DefaultAnim" "wildlife_birdsmall003_idle005"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_birdsmall005.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "bird"
+	"origin" "-71.3763 -1825.74 -3.78859"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -5268]"
+	}
+}
+entity
+{
+	"id" "33744"
+	"classname" "ambient_creatures"
+	"angles" "0 310 0"
+	"DefaultAnim" "wildlife_birdsmall003_idle005"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_birdsmall005.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "bird"
+	"origin" "-497.455 -1495.18 180.356"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -5268]"
+	}
+}
+entity
+{
+	"id" "33834"
+	"classname" "ent_dota_shop"
+	"angles" "0 303.5 0"
+	"DefaultAnim" "idle"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/heroes/shopkeeper/shopkeeper.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"shoptype" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"origin" "-1856 128 8"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "33840"
+	"classname" "prop_dynamic_clientside"
+	"angles" "0 335.5 0"
+	"DefaultAnim" "Secretshop_radiant_idle"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_structures/secretshop_radiant002.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"origin" "-1910.93 101.366 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 5500]"
+	}
+}
+entity
+{
+	"id" "33904"
+	"classname" "ambient_creatures"
+	"angles" "0 60 0"
+	"DefaultAnim" "wildlife_birdsmall003_idle005"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_wildlife/wildlife_birdsmall005.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"showatday" "1"
+	"showatnight" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"targetname" "bird"
+	"origin" "-1963.02 170.784 301.123"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -5268]"
+	}
+}
+entity
+{
+	"id" "33949"
+	"classname" "env_deferred_light"
+	"angles" "0 0 0"
+	"distance_falloff" "10"
+	"intensity" "1"
+	"lightcolor" "53 235 255"
+	"origin" "-454.32 0.63 253.74"
+	"radius" "512"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"spawnflags" "1"
+	"spot_fov" "180"
+	"spot_light_distance" "10"
+	"start_falloff" ".15"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[12500 -10768]"
+	}
+}
+entity
+{
+	"id" "33971"
+	"classname" "env_deferred_light"
+	"angles" "0 181 0"
+	"distance_falloff" "10"
+	"intensity" "1"
+	"lightcolor" "243 83 54"
+	"origin" "427.72 0 207.8"
+	"radius" "512"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"spawnflags" "1"
+	"spot_fov" "180"
+	"spot_light_distance" "10"
+	"start_falloff" ".15"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[12500 -10768]"
+	}
+}
+entity
+{
+	"id" "34001"
+	"classname" "trigger_shop"
+	"angles" "0 0 0"
+	"origin" "-1568 160 128"
+	"shoptype" "0"
+	"spawnflags" "4097"
+	"StartDisabled" "0"
+	solid
+	{
+		"id" "34002"
+		side
+		{
+			"id" "4764"
+			"plane" "(-1984 448 256) (-1984 448 0) (-1152 448 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4763"
+			"plane" "(-1152 -384 256) (-1152 -384 0) (-1984 -384 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4762"
+			"plane" "(-1984 -384 256) (-1984 -384 0) (-1984 448 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 -1 0 32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4761"
+			"plane" "(-1152 448 256) (-1152 448 0) (-1152 -384 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4760"
+			"plane" "(-1152 -384 256) (-1984 -384 256) (-1984 448 256)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 32] 1"
+			"vaxis" "[0 1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4759"
+			"plane" "(-1984 -384 0) (-1152 -384 0) (-1152 448 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 -32] 1"
+			"vaxis" "[0 1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "34003"
+		side
+		{
+			"id" "4770"
+			"plane" "(-1984 704 256) (-1984 704 0) (-1344 704 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4769"
+			"plane" "(-1344 448 256) (-1344 448 0) (-1984 448 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4768"
+			"plane" "(-1984 448 256) (-1984 448 0) (-1984 704 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 -32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4767"
+			"plane" "(-1344 704 256) (-1344 704 0) (-1344 448 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4766"
+			"plane" "(-1344 448 256) (-1984 448 256) (-1984 704 256)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 32] 1"
+			"vaxis" "[0 1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4765"
+			"plane" "(-1984 448 0) (-1344 448 0) (-1344 704 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 -32] 1"
+			"vaxis" "[0 1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -3268]"
+	}
+}
+entity
+{
+	"id" "34156"
+	"classname" "trigger_shop"
+	"angles" "0 0 0"
+	"origin" "1568 160 128"
+	"shoptype" "0"
+	"spawnflags" "4097"
+	"StartDisabled" "0"
+	solid
+	{
+		"id" "34157"
+		side
+		{
+			"id" "4812"
+			"plane" "(1984 -128 256) (1984 -128 0) (1152 -128 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4811"
+			"plane" "(1152 704 256) (1152 704 0) (1984 704 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 -32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4810"
+			"plane" "(1984 704 256) (1984 704 0) (1984 -128 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 -32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4809"
+			"plane" "(1152 -128 256) (1152 -128 0) (1152 704 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4808"
+			"plane" "(1152 704 256) (1984 704 256) (1984 -128 256)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 -32] 1"
+			"vaxis" "[0 -1 0 32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4807"
+			"plane" "(1984 704 0) (1152 704 0) (1152 -128 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 32] 1"
+			"vaxis" "[0 -1 0 32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "34158"
+		side
+		{
+			"id" "4818"
+			"plane" "(1984 -384 256) (1984 -384 0) (1344 -384 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4817"
+			"plane" "(1344 -128 256) (1344 -128 0) (1984 -128 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 -32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4816"
+			"plane" "(1984 -128 256) (1984 -128 0) (1984 -384 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 -1 0 32] 1"
+			"vaxis" "[0 0 -1 -18] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4815"
+			"plane" "(1344 -384 256) (1344 -384 0) (1344 -128 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4814"
+			"plane" "(1344 -128 256) (1984 -128 256) (1984 -384 256)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 -32] 1"
+			"vaxis" "[0 -1 0 32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4813"
+			"plane" "(1984 -128 0) (1344 -128 0) (1344 -384 0)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-1 0 0 32] 1"
+			"vaxis" "[0 -1 0 32] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -3268]"
+	}
+}
+entity
+{
+	"id" "34160"
+	"classname" "prop_dynamic_clientside"
+	"angles" "0 155.5 0"
+	"DefaultAnim" "Secretshop_radiant_idle"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"HoldAnimation" "0"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_structures/secretshop_dire001.mdl"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"ScriptedMovement" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"origin" "1782.7 256.651 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 5500]"
+	}
+}
+entity
+{
+	"id" "34162"
+	"classname" "ent_dota_shop"
+	"angles" "0 189 0"
+	"DefaultAnim" "idle"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
+	"model" "models/heroes/shopkeeper_dire/shopkeeper_dire.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"shoptype" "0"
+	"skin" "0"
+	"solid" "0"
+	"spawnflags" "0"
+	"origin" "1676.02 306.831 8"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 cameras
