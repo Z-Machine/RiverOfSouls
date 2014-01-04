@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5032"
-	"mapversion" "595"
+	"mapversion" "605"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,13 +26,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "128"
+	"nGridSpacing" "32"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "595"
+	"mapversion" "605"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -3283,7 +3283,7 @@ entity
 entity
 {
 	"id" "17462"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 99.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -3312,7 +3312,7 @@ entity
 	"origin" "-734.522 -109.954 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -3321,7 +3321,7 @@ entity
 entity
 {
 	"id" "17505"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 221.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -3350,7 +3350,7 @@ entity
 	"origin" "-576 -320 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -3361,7 +3361,7 @@ hidden
 	entity
 	{
 		"id" "17999"
-		"classname" "prop_dynamic"
+		"classname" "prop_static"
 		"angles" "0 270 -10"
 		"DisableBoneFollowers" "0"
 		"disablereceiveshadows" "0"
@@ -3390,7 +3390,7 @@ hidden
 		"origin" "-416 416 0"
 		editor
 		{
-			"color" "220 30 220"
+			"color" "255 255 0"
 			"visgroupid" "8"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
@@ -3403,7 +3403,7 @@ hidden
 	entity
 	{
 		"id" "17955"
-		"classname" "prop_dynamic"
+		"classname" "prop_static"
 		"angles" "0 270 -15"
 		"DisableBoneFollowers" "0"
 		"disablereceiveshadows" "0"
@@ -3432,7 +3432,7 @@ hidden
 		"origin" "-416 224 0"
 		editor
 		{
-			"color" "220 30 220"
+			"color" "255 255 0"
 			"visgroupid" "8"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
@@ -3445,7 +3445,7 @@ hidden
 	entity
 	{
 		"id" "17839"
-		"classname" "prop_dynamic"
+		"classname" "prop_static"
 		"angles" "0 243 0"
 		"DisableBoneFollowers" "0"
 		"disablereceiveshadows" "0"
@@ -3474,7 +3474,7 @@ hidden
 		"origin" "-416 -128 -32"
 		editor
 		{
-			"color" "220 30 220"
+			"color" "255 255 0"
 			"visgroupid" "8"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
@@ -3487,7 +3487,7 @@ hidden
 	entity
 	{
 		"id" "17517"
-		"classname" "prop_dynamic"
+		"classname" "prop_static"
 		"angles" "0 90 15"
 		"DisableBoneFollowers" "0"
 		"disablereceiveshadows" "0"
@@ -3516,7 +3516,7 @@ hidden
 		"origin" "-416 -192 0"
 		editor
 		{
-			"color" "220 30 220"
+			"color" "255 255 0"
 			"visgroupid" "8"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
@@ -3529,7 +3529,7 @@ hidden
 	entity
 	{
 		"id" "18072"
-		"classname" "prop_dynamic"
+		"classname" "prop_static"
 		"angles" "0 270 -10"
 		"DisableBoneFollowers" "0"
 		"disablereceiveshadows" "0"
@@ -3558,7 +3558,7 @@ hidden
 		"origin" "-416 -384 0"
 		editor
 		{
-			"color" "220 30 220"
+			"color" "255 255 0"
 			"visgroupid" "8"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
@@ -4245,7 +4245,7 @@ entity
 entity
 {
 	"id" "18831"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 270 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4274,7 +4274,7 @@ entity
 	"origin" "-768 2048 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4283,7 +4283,7 @@ entity
 entity
 {
 	"id" "18859"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 270 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4312,7 +4312,7 @@ entity
 	"origin" "-1239.89 2044.34 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4321,7 +4321,7 @@ entity
 entity
 {
 	"id" "18867"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4350,7 +4350,7 @@ entity
 	"origin" "-2048 1664 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4359,7 +4359,7 @@ entity
 entity
 {
 	"id" "18887"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4388,7 +4388,7 @@ entity
 	"origin" "-2048 1152 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4397,7 +4397,7 @@ entity
 entity
 {
 	"id" "18891"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 346 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4426,7 +4426,7 @@ entity
 	"origin" "-2124.9 676.619 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4435,7 +4435,7 @@ entity
 entity
 {
 	"id" "18895"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 7 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4464,7 +4464,7 @@ entity
 	"origin" "-2205.46 149.971 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4473,7 +4473,7 @@ entity
 entity
 {
 	"id" "18903"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4502,7 +4502,7 @@ entity
 	"origin" "-2048 -896 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4511,7 +4511,7 @@ entity
 entity
 {
 	"id" "18907"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4540,7 +4540,7 @@ entity
 	"origin" "-2048 -1408 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4549,7 +4549,7 @@ entity
 entity
 {
 	"id" "18911"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4578,7 +4578,7 @@ entity
 	"origin" "-2048 -1920 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4587,7 +4587,7 @@ entity
 entity
 {
 	"id" "18915"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 282 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4616,7 +4616,7 @@ entity
 	"origin" "-1792 1920 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4625,7 +4625,7 @@ entity
 entity
 {
 	"id" "19036"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 306 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4654,7 +4654,7 @@ entity
 	"origin" "-1920 2033.35 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4663,7 +4663,7 @@ entity
 entity
 {
 	"id" "19153"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4692,7 +4692,7 @@ entity
 	"origin" "-431.439 2296.84 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4701,7 +4701,7 @@ entity
 entity
 {
 	"id" "19235"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4730,7 +4730,7 @@ entity
 	"origin" "-384 2176 -128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4739,7 +4739,7 @@ entity
 entity
 {
 	"id" "19261"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 263.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4768,7 +4768,7 @@ entity
 	"origin" "-1408 2237.52 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4777,7 +4777,7 @@ entity
 entity
 {
 	"id" "19281"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 281 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4806,7 +4806,7 @@ entity
 	"origin" "-816.337 2246.87 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4849,7 +4849,7 @@ entity
 entity
 {
 	"id" "19420"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 324.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4878,7 +4878,7 @@ entity
 	"origin" "-1728 1408 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4887,7 +4887,7 @@ entity
 entity
 {
 	"id" "19444"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 19.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4916,7 +4916,7 @@ entity
 	"origin" "-640 1664 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4925,7 +4925,7 @@ entity
 entity
 {
 	"id" "19452"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 303 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4954,7 +4954,7 @@ entity
 	"origin" "-960 1792 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -4963,7 +4963,7 @@ entity
 entity
 {
 	"id" "19456"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 82 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -4992,7 +4992,7 @@ entity
 	"origin" "-1280 1664 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5001,7 +5001,7 @@ entity
 entity
 {
 	"id" "19472"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 154.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5030,7 +5030,7 @@ entity
 	"origin" "-1536 1536 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5039,7 +5039,7 @@ entity
 entity
 {
 	"id" "19526"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 324.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5068,7 +5068,7 @@ entity
 	"origin" "-1856 1280 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5077,7 +5077,7 @@ entity
 entity
 {
 	"id" "19545"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 257.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5106,7 +5106,7 @@ entity
 	"origin" "-1536 1728 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5115,7 +5115,7 @@ entity
 entity
 {
 	"id" "19553"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 257.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5144,7 +5144,7 @@ entity
 	"origin" "-1088 1536 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5153,7 +5153,7 @@ entity
 entity
 {
 	"id" "19597"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5182,7 +5182,7 @@ entity
 	"origin" "2071.93 -1920 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5191,7 +5191,7 @@ entity
 entity
 {
 	"id" "19605"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5220,7 +5220,7 @@ entity
 	"origin" "2037.39 -936.648 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5229,7 +5229,7 @@ entity
 entity
 {
 	"id" "19609"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5258,7 +5258,7 @@ entity
 	"origin" "2060.36 -430.296 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5267,7 +5267,7 @@ entity
 entity
 {
 	"id" "19613"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 159.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5296,7 +5296,7 @@ entity
 	"origin" "2117.7 222.599 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5305,7 +5305,7 @@ entity
 entity
 {
 	"id" "19617"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 204.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5334,7 +5334,7 @@ entity
 	"origin" "2114.65 670.516 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5343,7 +5343,7 @@ entity
 entity
 {
 	"id" "19621"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5372,7 +5372,7 @@ entity
 	"origin" "2071.93 1152 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5381,7 +5381,7 @@ entity
 entity
 {
 	"id" "19625"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5410,7 +5410,7 @@ entity
 	"origin" "2071.93 1664 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5419,7 +5419,7 @@ entity
 entity
 {
 	"id" "19637"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 270 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5448,7 +5448,7 @@ entity
 	"origin" "1231.02 2048.2 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5457,7 +5457,7 @@ entity
 entity
 {
 	"id" "19645"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 270 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5486,7 +5486,7 @@ entity
 	"origin" "791.928 2048 0.0738373"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5495,7 +5495,7 @@ entity
 entity
 {
 	"id" "19649"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 262.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5524,7 +5524,7 @@ entity
 	"origin" "812.292 2241.79 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5533,7 +5533,7 @@ entity
 entity
 {
 	"id" "19653"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 193.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5562,7 +5562,7 @@ entity
 	"origin" "439.498 2315.25 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5571,7 +5571,7 @@ entity
 entity
 {
 	"id" "19657"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5600,7 +5600,7 @@ entity
 	"origin" "407.928 2176 -128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5609,7 +5609,7 @@ entity
 entity
 {
 	"id" "19976"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-0.29556 351.505 -1.97805"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5638,7 +5638,7 @@ entity
 	"origin" "-384 1650.15 -236.71"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5647,7 +5647,7 @@ entity
 entity
 {
 	"id" "19980"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5676,7 +5676,7 @@ entity
 	"origin" "-358.584 832 -237.05"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5685,7 +5685,7 @@ entity
 entity
 {
 	"id" "19984"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5714,7 +5714,7 @@ entity
 	"origin" "-352.361 1286.33 -256"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5723,7 +5723,7 @@ entity
 entity
 {
 	"id" "20124"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-5.4528 7.53429 -0.720069"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5752,7 +5752,7 @@ entity
 	"origin" "-331.844 345.633 -258.369"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5761,7 +5761,7 @@ entity
 entity
 {
 	"id" "20164"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 351.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5790,7 +5790,7 @@ entity
 	"origin" "-334.648 -239.439 -217.76"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5799,7 +5799,7 @@ entity
 entity
 {
 	"id" "20200"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "2.98857 5.00682 0.261705"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5828,7 +5828,7 @@ entity
 	"origin" "-361.407 -773.41 -254.974"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5837,7 +5837,7 @@ entity
 entity
 {
 	"id" "20204"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5866,7 +5866,7 @@ entity
 	"origin" "-366.63 -1227.74 -235.724"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5875,7 +5875,7 @@ entity
 entity
 {
 	"id" "20208"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-2.4786 7.50707 -0.326519"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5904,7 +5904,7 @@ entity
 	"origin" "-341.041 -1714.1 -258.413"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5913,7 +5913,7 @@ entity
 entity
 {
 	"id" "20315"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-2.4786 0.992922 -0.326519"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5942,7 +5942,7 @@ entity
 	"origin" "381.16 1735.46 -258.413"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5951,7 +5951,7 @@ entity
 entity
 {
 	"id" "20319"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -5980,7 +5980,7 @@ entity
 	"origin" "370.112 1258.37 -235.724"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -5989,7 +5989,7 @@ entity
 entity
 {
 	"id" "20323"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "6.47516 354.968 -0.0455282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6018,7 +6018,7 @@ entity
 	"origin" "363.267 778.167 -254.974"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6027,7 +6027,7 @@ entity
 entity
 {
 	"id" "20327"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-18.8468 333.898 2.45755"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6056,7 +6056,7 @@ entity
 	"origin" "331.844 198.523 -128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6065,7 +6065,7 @@ entity
 entity
 {
 	"id" "20331"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 3.90101 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6094,7 +6094,7 @@ entity
 	"origin" "379.267 244.033 -217.76"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6103,7 +6103,7 @@ entity
 entity
 {
 	"id" "20335"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-5.4528 353.466 -0.720069"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6132,7 +6132,7 @@ entity
 	"origin" "385.861 -340.04 -246.275"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6141,7 +6141,7 @@ entity
 entity
 {
 	"id" "20339"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6170,7 +6170,7 @@ entity
 	"origin" "355.535 -829.009 -228.678"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6179,7 +6179,7 @@ entity
 entity
 {
 	"id" "20343"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 355 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6208,7 +6208,7 @@ entity
 	"origin" "359.332 -1267.59 -256"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6217,7 +6217,7 @@ entity
 entity
 {
 	"id" "20347"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-0.29556 8.495 -1.97805"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6246,7 +6246,7 @@ entity
 	"origin" "353.495 -1646.91 -197.638"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6272,7 +6272,7 @@ entity
 entity
 {
 	"id" "20664"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 191.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6301,7 +6301,7 @@ entity
 	"origin" "320 2304 -256"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6310,7 +6310,7 @@ entity
 entity
 {
 	"id" "20699"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6339,7 +6339,7 @@ entity
 	"origin" "-320 2368 -192"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6348,7 +6348,7 @@ entity
 entity
 {
 	"id" "20776"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 351.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6377,7 +6377,7 @@ entity
 	"origin" "-209.589 2093.73 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6386,7 +6386,7 @@ entity
 entity
 {
 	"id" "20815"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 351.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6415,7 +6415,7 @@ entity
 	"origin" "236.738 1901.75 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6424,7 +6424,7 @@ entity
 entity
 {
 	"id" "20841"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 11.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6453,7 +6453,7 @@ entity
 	"origin" "232.563 1428.1 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6462,7 +6462,7 @@ entity
 entity
 {
 	"id" "20861"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 337.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6491,7 +6491,7 @@ entity
 	"origin" "229.936 891.876 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6500,7 +6500,7 @@ entity
 entity
 {
 	"id" "20895"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 354.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6529,7 +6529,7 @@ entity
 	"origin" "256 -23.7362 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6538,7 +6538,7 @@ entity
 entity
 {
 	"id" "20911"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 328.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6567,7 +6567,7 @@ entity
 	"origin" "204.715 -292.451 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6576,7 +6576,7 @@ entity
 entity
 {
 	"id" "20922"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 354.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6605,7 +6605,7 @@ entity
 	"origin" "232.282 -708.238 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6614,7 +6614,7 @@ entity
 entity
 {
 	"id" "20942"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 348.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6643,7 +6643,7 @@ entity
 	"origin" "221.687 -906.596 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6652,7 +6652,7 @@ entity
 entity
 {
 	"id" "20965"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 320.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6681,7 +6681,7 @@ entity
 	"origin" "221.668 -1198.62 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6690,7 +6690,7 @@ entity
 entity
 {
 	"id" "20989"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 11.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6719,7 +6719,7 @@ entity
 	"origin" "225.906 -1612.71 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6728,7 +6728,7 @@ entity
 entity
 {
 	"id" "20997"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 4.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6757,7 +6757,7 @@ entity
 	"origin" "236.928 -1760.21 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6766,7 +6766,7 @@ entity
 entity
 {
 	"id" "21047"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 349.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6795,7 +6795,7 @@ entity
 	"origin" "246.745 1223.09 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6804,7 +6804,7 @@ entity
 entity
 {
 	"id" "21051"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 349.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6833,7 +6833,7 @@ entity
 	"origin" "212.686 1701.98 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6842,7 +6842,7 @@ entity
 entity
 {
 	"id" "21075"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 357.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6871,7 +6871,7 @@ entity
 	"origin" "163.817 659.186 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6880,7 +6880,7 @@ entity
 entity
 {
 	"id" "21142"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 11.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6909,7 +6909,7 @@ entity
 	"origin" "246.768 1058.8 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6918,7 +6918,7 @@ entity
 entity
 {
 	"id" "21154"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 10.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6947,7 +6947,7 @@ entity
 	"origin" "162.405 493.042 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6956,7 +6956,7 @@ entity
 entity
 {
 	"id" "21166"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 354.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -6985,7 +6985,7 @@ entity
 	"origin" "189.547 296.47 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -6994,7 +6994,7 @@ entity
 entity
 {
 	"id" "21186"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 26.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7023,7 +7023,7 @@ entity
 	"origin" "204.715 136.051 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7032,7 +7032,7 @@ entity
 entity
 {
 	"id" "21198"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 9.09901 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7061,7 +7061,7 @@ entity
 	"origin" "177.166 -439.523 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7070,7 +7070,7 @@ entity
 entity
 {
 	"id" "21218"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 5.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7099,7 +7099,7 @@ entity
 	"origin" "-234.383 1936.95 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7108,7 +7108,7 @@ entity
 entity
 {
 	"id" "21249"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 5.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7137,7 +7137,7 @@ entity
 	"origin" "-206.408 1697.91 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7146,7 +7146,7 @@ entity
 entity
 {
 	"id" "21286"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "6.07993 24.8196 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7175,7 +7175,7 @@ entity
 	"origin" "-189.972 1489.29 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7184,7 +7184,7 @@ entity
 entity
 {
 	"id" "21324"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "6.07993 335.82 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7213,7 +7213,7 @@ entity
 	"origin" "-166.145 1290.17 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7222,7 +7222,7 @@ entity
 entity
 {
 	"id" "21347"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 351.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7251,7 +7251,7 @@ entity
 	"origin" "-198.994 1063.37 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7260,7 +7260,7 @@ entity
 entity
 {
 	"id" "21351"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 358.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7289,7 +7289,7 @@ entity
 	"origin" "-199.2 726.034 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7298,7 +7298,7 @@ entity
 entity
 {
 	"id" "21355"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 5.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7327,7 +7327,7 @@ entity
 	"origin" "-200.051 864.63 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7336,7 +7336,7 @@ entity
 entity
 {
 	"id" "21387"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 14.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7365,7 +7365,7 @@ entity
 	"origin" "-176.74 563.285 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7374,7 +7374,7 @@ entity
 entity
 {
 	"id" "21403"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "6.07993 335.82 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7403,7 +7403,7 @@ entity
 	"origin" "-147.493 308.602 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7412,7 +7412,7 @@ entity
 entity
 {
 	"id" "21407"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 351.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7441,7 +7441,7 @@ entity
 	"origin" "-177.799 76.715 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7450,7 +7450,7 @@ entity
 entity
 {
 	"id" "21411"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 5.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7479,7 +7479,7 @@ entity
 	"origin" "-170.379 -118.679 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7488,7 +7488,7 @@ entity
 entity
 {
 	"id" "21431"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 351.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7517,7 +7517,7 @@ entity
 	"origin" "-208.74 -1236.77 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7526,7 +7526,7 @@ entity
 entity
 {
 	"id" "21435"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "6.07993 335.82 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7555,7 +7555,7 @@ entity
 	"origin" "-226.75 -1025.23 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7564,7 +7564,7 @@ entity
 entity
 {
 	"id" "21439"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 336.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7593,7 +7593,7 @@ entity
 	"origin" "-196.66 -332.715 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7602,7 +7602,7 @@ entity
 entity
 {
 	"id" "21443"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 358.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7631,7 +7631,7 @@ entity
 	"origin" "-189.453 -762.916 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7640,7 +7640,7 @@ entity
 entity
 {
 	"id" "21447"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 21.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7669,7 +7669,7 @@ entity
 	"origin" "-242.86 -568.371 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7678,7 +7678,7 @@ entity
 entity
 {
 	"id" "21491"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 358.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7707,7 +7707,7 @@ entity
 	"origin" "-168.262 -1632.63 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7716,7 +7716,7 @@ entity
 entity
 {
 	"id" "21495"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "6.07993 335.82 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7745,7 +7745,7 @@ entity
 	"origin" "-169.957 -1811.02 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7754,7 +7754,7 @@ entity
 entity
 {
 	"id" "21499"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 7.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7783,7 +7783,7 @@ entity
 	"origin" "-202.806 -1445.31 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7792,7 +7792,7 @@ entity
 entity
 {
 	"id" "21605"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 331 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7821,7 +7821,7 @@ entity
 	"origin" "-213.634 2822.73 -192"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7830,7 +7830,7 @@ entity
 entity
 {
 	"id" "21641"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "5.84568 339.431 -1.35441"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7859,7 +7859,7 @@ entity
 	"origin" "-358.816 2765.66 84.573"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7868,7 +7868,7 @@ entity
 entity
 {
 	"id" "21669"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 221 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7897,7 +7897,7 @@ entity
 	"origin" "183.727 2790.66 -192"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7906,7 +7906,7 @@ entity
 entity
 {
 	"id" "21689"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "8.49185 196.528 0.373505"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7935,7 +7935,7 @@ entity
 	"origin" "355.046 2783.78 104.313"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -7944,7 +7944,7 @@ entity
 entity
 {
 	"id" "20272"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-18.8468 26.1022 2.45755"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -7973,7 +7973,7 @@ entity
 	"origin" "-384 -192 -128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8220,7 +8220,7 @@ entity
 entity
 {
 	"id" "22097"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 35.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8249,7 +8249,7 @@ entity
 	"origin" "-1792 -1536 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8258,7 +8258,7 @@ entity
 entity
 {
 	"id" "22101"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 340.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8287,7 +8287,7 @@ entity
 	"origin" "-640 -1728 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8296,7 +8296,7 @@ entity
 entity
 {
 	"id" "22105"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 278 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8325,7 +8325,7 @@ entity
 	"origin" "-1280 -1728 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8334,7 +8334,7 @@ entity
 entity
 {
 	"id" "22109"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 205.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8363,7 +8363,7 @@ entity
 	"origin" "-1536 -1600 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8372,7 +8372,7 @@ entity
 entity
 {
 	"id" "22117"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 102.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8401,7 +8401,7 @@ entity
 	"origin" "-1536 -1792 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8410,7 +8410,7 @@ entity
 entity
 {
 	"id" "22121"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 173.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8439,7 +8439,7 @@ entity
 	"origin" "-1088 -1600 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8448,7 +8448,7 @@ entity
 entity
 {
 	"id" "22125"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 57 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8477,7 +8477,7 @@ entity
 	"origin" "-960 -1856 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -8486,7 +8486,7 @@ entity
 entity
 {
 	"id" "22513"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 33 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -8515,7 +8515,7 @@ entity
 	"origin" "-1664 -1408 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9216,7 +9216,7 @@ entity
 entity
 {
 	"id" "22986"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 241.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9245,7 +9245,7 @@ entity
 	"origin" "-1728 768 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9254,7 +9254,7 @@ entity
 entity
 {
 	"id" "22990"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 344.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9283,7 +9283,7 @@ entity
 	"origin" "-1664 1088 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9292,7 +9292,7 @@ entity
 entity
 {
 	"id" "22994"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 51.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9321,7 +9321,7 @@ entity
 	"origin" "-1728 576 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9330,7 +9330,7 @@ entity
 entity
 {
 	"id" "23058"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 63 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9359,7 +9359,7 @@ entity
 	"origin" "-1792 960 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9370,7 +9370,7 @@ hidden
 	entity
 	{
 		"id" "18899"
-		"classname" "prop_dynamic"
+		"classname" "prop_static"
 		"angles" "0 0 0"
 		"DisableBoneFollowers" "0"
 		"disablereceiveshadows" "0"
@@ -9399,7 +9399,7 @@ hidden
 		"origin" "-2048 -384 0.0738373"
 		editor
 		{
-			"color" "220 30 220"
+			"color" "255 255 0"
 			"visgroupid" "8"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
@@ -9410,7 +9410,7 @@ hidden
 entity
 {
 	"id" "23075"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 90 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9436,10 +9436,10 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "-2074.17 -451.858 13.6268"
+	"origin" "-2074.48 -451.858 18.3"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9448,7 +9448,7 @@ entity
 entity
 {
 	"id" "23570"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 78.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9477,7 +9477,7 @@ entity
 	"origin" "-2368 -779.222 64"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9486,7 +9486,7 @@ entity
 entity
 {
 	"id" "23598"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 283 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9515,7 +9515,7 @@ entity
 	"origin" "-2408.04 -158.093 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9524,7 +9524,7 @@ entity
 entity
 {
 	"id" "23618"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 116.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9553,7 +9553,7 @@ entity
 	"origin" "-1929.96 576.037 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9562,7 +9562,7 @@ entity
 entity
 {
 	"id" "23622"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 51.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9591,7 +9591,7 @@ entity
 	"origin" "-1957.51 -303.925 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9600,7 +9600,7 @@ entity
 entity
 {
 	"id" "23626"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 275 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9629,7 +9629,7 @@ entity
 	"origin" "-1772.08 -250.488 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9723,7 +9723,7 @@ entity
 entity
 {
 	"id" "23694"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 222.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9752,7 +9752,7 @@ entity
 	"origin" "-1739 -1310.67 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9761,7 +9761,7 @@ entity
 entity
 {
 	"id" "23698"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 14 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9790,7 +9790,7 @@ entity
 	"origin" "-1728 -1152 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9799,7 +9799,7 @@ entity
 entity
 {
 	"id" "23702"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 349 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9828,7 +9828,7 @@ entity
 	"origin" "-1792 -896 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9837,7 +9837,7 @@ entity
 entity
 {
 	"id" "23947"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9863,10 +9863,10 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "1770.78 1987.86 14.0659"
+	"origin" "1770 1987.86 21.0429"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9875,7 +9875,7 @@ entity
 entity
 {
 	"id" "23986"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 181 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9904,7 +9904,7 @@ entity
 	"origin" "2125.73 2152.91 64"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9913,7 +9913,7 @@ entity
 entity
 {
 	"id" "24010"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-4.17172 337.938 1.68872"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9942,7 +9942,7 @@ entity
 	"origin" "1469.77 2341.33 100.092"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -9951,7 +9951,7 @@ entity
 entity
 {
 	"id" "24071"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -9977,10 +9977,10 @@ entity
 	"solid" "0"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "1772.71 2207.85 147.629"
+	"origin" "1771.93 2207.85 154.606"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10227,7 +10227,7 @@ entity
 entity
 {
 	"id" "24409"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-1.14124 305.994 -2.68274"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10256,7 +10256,7 @@ entity
 	"origin" "1226.17 2315.57 140.92"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10265,7 +10265,7 @@ entity
 entity
 {
 	"id" "24849"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 263 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10294,7 +10294,7 @@ entity
 	"origin" "-40.6667 2607.33 -88.3086"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10303,7 +10303,7 @@ entity
 entity
 {
 	"id" "24967"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 29.599 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10332,7 +10332,7 @@ entity
 	"origin" "194.233 2097.12 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10341,7 +10341,7 @@ entity
 entity
 {
 	"id" "24979"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 345.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10370,7 +10370,7 @@ entity
 	"origin" "-190.514 2298.05 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10379,7 +10379,7 @@ entity
 entity
 {
 	"id" "24999"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 358.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10408,7 +10408,7 @@ entity
 	"origin" "140.86 2318.47 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10417,7 +10417,7 @@ entity
 entity
 {
 	"id" "25042"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "-2.4786 284.507 -0.326519"
 	"DefaultAnim" "boat_dragonKnight_idle"
 	"DisableBoneFollowers" "0"
@@ -10443,7 +10443,6 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-122.294 -1610.24 -141.889"
 	editor
 	{
@@ -10456,7 +10455,7 @@ entity
 entity
 {
 	"id" "25082"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 19.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10485,7 +10484,7 @@ entity
 	"origin" "-89.9675 -1470.25 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10494,7 +10493,7 @@ entity
 entity
 {
 	"id" "25086"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 12.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10523,7 +10522,7 @@ entity
 	"origin" "-58.5248 -1614.78 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10532,7 +10531,7 @@ entity
 entity
 {
 	"id" "25175"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "7.57461 4.83511 -8.45991"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10561,7 +10560,7 @@ entity
 	"origin" "68.4653 -1537.12 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10570,7 +10569,7 @@ entity
 entity
 {
 	"id" "25199"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 4.09899 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10599,7 +10598,7 @@ entity
 	"origin" "12.2796 -1523.72 -105.839"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10608,7 +10607,7 @@ entity
 entity
 {
 	"id" "25386"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.24564 354.099 -8.58704"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10637,7 +10636,7 @@ entity
 	"origin" "-252.837 1104 -131.962"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10663,7 +10662,7 @@ entity
 entity
 {
 	"id" "26099"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0.617979 182.939 -3.14101"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10701,7 +10700,7 @@ entity
 entity
 {
 	"id" "26160"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0.617979 182.939 -3.14101"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10739,7 +10738,7 @@ entity
 entity
 {
 	"id" "26231"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 165.257 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10768,7 +10767,7 @@ entity
 	"origin" "850.867 1711.27 -17.6691"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10777,7 +10776,7 @@ entity
 entity
 {
 	"id" "26251"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 59.757 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10806,7 +10805,7 @@ entity
 	"origin" "514.971 92.2776 -12.0874"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10815,7 +10814,7 @@ entity
 entity
 {
 	"id" "26275"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-1.29499 135.255 -12.1646"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10844,7 +10843,7 @@ entity
 	"origin" "519.814 -92.2776 -37.7629"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10853,7 +10852,7 @@ entity
 entity
 {
 	"id" "26324"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 122.257 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10882,7 +10881,7 @@ entity
 	"origin" "473.676 -60.651 -60.0895"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10891,7 +10890,7 @@ entity
 entity
 {
 	"id" "26336"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-1.26115 73.262 -22.7673"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10920,7 +10919,7 @@ entity
 	"origin" "460.28 58.4184 -35.5303"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10929,7 +10928,7 @@ entity
 entity
 {
 	"id" "26364"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 165.257 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10958,7 +10957,7 @@ entity
 	"origin" "1756.44 841.593 -39.9956"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -10967,7 +10966,7 @@ entity
 entity
 {
 	"id" "26368"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 44.257 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -10996,7 +10995,7 @@ entity
 	"origin" "1801.95 -507.478 -17.6691"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11005,7 +11004,7 @@ entity
 entity
 {
 	"id" "26380"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 71.257 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11034,7 +11033,7 @@ entity
 	"origin" "1811.97 -427.102 -37.2048"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11043,7 +11042,7 @@ entity
 entity
 {
 	"id" "26407"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.42757 96.0249 -7.9892"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11072,7 +11071,7 @@ entity
 	"origin" "1792 -128 -17.6691"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11081,7 +11080,7 @@ entity
 entity
 {
 	"id" "26423"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.42757 96.0249 -7.9892"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11110,7 +11109,7 @@ entity
 	"origin" "1756.44 713.593 -17.6691"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11119,7 +11118,7 @@ entity
 entity
 {
 	"id" "26427"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "2.68174 82.7069 -13.9512"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11148,7 +11147,7 @@ entity
 	"origin" "1732.33 833.555 -17.6691"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11157,7 +11156,7 @@ entity
 entity
 {
 	"id" "26443"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.1913 134.757 -14.6282"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11186,7 +11185,7 @@ entity
 	"origin" "1920 1856 -17.6691"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11195,7 +11194,7 @@ entity
 entity
 {
 	"id" "26447"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "2.68174 82.7069 -13.9512"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11224,7 +11223,7 @@ entity
 	"origin" "1893.4 1860.24 -41.8561"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11233,7 +11232,7 @@ entity
 entity
 {
 	"id" "26451"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.42757 142.025 -7.9892"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11262,7 +11261,7 @@ entity
 	"origin" "1903.74 1764.84 -5.57553"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11271,7 +11270,7 @@ entity
 entity
 {
 	"id" "26527"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "13.1012 183.017 -2.48817"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11300,7 +11299,7 @@ entity
 	"origin" "492.958 -133.309 -15.4572"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11309,7 +11308,7 @@ entity
 entity
 {
 	"id" "26547"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "13.1012 163.017 -2.48817"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11338,7 +11337,7 @@ entity
 	"origin" "486.324 102.324 -10.9919"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11347,7 +11346,7 @@ entity
 entity
 {
 	"id" "26606"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 112 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11376,7 +11375,7 @@ entity
 	"origin" "-584 268.8 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11385,7 +11384,7 @@ entity
 entity
 {
 	"id" "26622"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 221.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11414,7 +11413,7 @@ entity
 	"origin" "-884.8 158.4 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11527,7 +11526,7 @@ entity
 entity
 {
 	"id" "26753"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 343 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11556,7 +11555,7 @@ entity
 	"origin" "488.888 212.704 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11565,7 +11564,7 @@ entity
 entity
 {
 	"id" "26788"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 149 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11594,7 +11593,7 @@ entity
 	"origin" "1824.8 1536 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11603,7 +11602,7 @@ entity
 entity
 {
 	"id" "26792"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 343 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11632,7 +11631,7 @@ entity
 	"origin" "1099.57 1741.89 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11641,7 +11640,7 @@ entity
 entity
 {
 	"id" "26850"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 268 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11670,7 +11669,7 @@ entity
 	"origin" "1446.22 1860.25 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11679,7 +11678,7 @@ entity
 entity
 {
 	"id" "26897"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 139.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11708,7 +11707,7 @@ entity
 	"origin" "1829.98 1316.91 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11717,7 +11716,7 @@ entity
 entity
 {
 	"id" "26917"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 211 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11746,7 +11745,7 @@ entity
 	"origin" "944.481 1711.93 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11755,7 +11754,7 @@ entity
 entity
 {
 	"id" "26944"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 161.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11784,7 +11783,7 @@ entity
 	"origin" "1710.3 581.444 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11793,7 +11792,7 @@ entity
 entity
 {
 	"id" "26956"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 140 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11822,7 +11821,7 @@ entity
 	"origin" "1751.96 -856.648 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11831,7 +11830,7 @@ entity
 entity
 {
 	"id" "26968"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 173 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11860,7 +11859,7 @@ entity
 	"origin" "1755.09 -295.908 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11869,7 +11868,7 @@ entity
 entity
 {
 	"id" "26979"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 159 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11898,7 +11897,7 @@ entity
 	"origin" "1787.38 983.572 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11907,7 +11906,7 @@ entity
 entity
 {
 	"id" "27099"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 343 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11936,7 +11935,7 @@ entity
 	"origin" "651.222 1580 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11945,7 +11944,7 @@ entity
 entity
 {
 	"id" "27118"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 261 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -11974,7 +11973,7 @@ entity
 	"origin" "1127.22 1638.33 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -11983,7 +11982,7 @@ entity
 entity
 {
 	"id" "27138"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 261 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12012,7 +12011,7 @@ entity
 	"origin" "1664 1600 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12021,7 +12020,7 @@ entity
 entity
 {
 	"id" "27142"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 140 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12050,7 +12049,7 @@ entity
 	"origin" "1574.4 670.4 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12059,7 +12058,7 @@ entity
 entity
 {
 	"id" "27154"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 259.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12088,7 +12087,7 @@ entity
 	"origin" "1600 0 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12097,7 +12096,7 @@ entity
 entity
 {
 	"id" "27162"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 143 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12126,7 +12125,7 @@ entity
 	"origin" "1536 -640 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12135,7 +12134,7 @@ entity
 entity
 {
 	"id" "27170"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 143 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12164,7 +12163,7 @@ entity
 	"origin" "640 -1664 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12173,7 +12172,7 @@ entity
 entity
 {
 	"id" "27174"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 124.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12202,7 +12201,7 @@ entity
 	"origin" "548.907 -258.315 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12211,7 +12210,7 @@ entity
 entity
 {
 	"id" "27190"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 355 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12240,7 +12239,7 @@ entity
 	"origin" "563.944 295.587 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12249,7 +12248,7 @@ entity
 entity
 {
 	"id" "27266"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0 342.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12287,7 +12286,7 @@ entity
 entity
 {
 	"id" "27286"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 342.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12316,7 +12315,7 @@ entity
 	"origin" "-256 960 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12325,7 +12324,7 @@ entity
 entity
 {
 	"id" "27301"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 292 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12354,7 +12353,7 @@ entity
 	"origin" "-238.325 1024 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12363,7 +12362,7 @@ entity
 entity
 {
 	"id" "27334"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 292 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12392,7 +12391,7 @@ entity
 	"origin" "-207.325 1536.61 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12401,7 +12400,7 @@ entity
 entity
 {
 	"id" "27338"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 342.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12430,7 +12429,7 @@ entity
 	"origin" "-225 1472.61 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12439,7 +12438,7 @@ entity
 entity
 {
 	"id" "27342"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0 342.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12477,7 +12476,7 @@ entity
 entity
 {
 	"id" "27362"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 143 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12506,7 +12505,7 @@ entity
 	"origin" "-205.396 1758.51 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12515,7 +12514,7 @@ entity
 entity
 {
 	"id" "27411"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0 0 0"
 	"DefaultAnim" "float1"
 	"DisableBoneFollowers" "0"
@@ -12554,7 +12553,7 @@ entity
 entity
 {
 	"id" "27419"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 143 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12583,7 +12582,7 @@ entity
 	"origin" "-175.617 -858.021 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12592,7 +12591,7 @@ entity
 entity
 {
 	"id" "27423"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0 342.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12630,7 +12629,7 @@ entity
 entity
 {
 	"id" "27431"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 292 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12659,7 +12658,7 @@ entity
 	"origin" "-211.304 -1017.23 -134.876"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12754,7 +12753,7 @@ entity
 entity
 {
 	"id" "27623"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 221.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12783,7 +12782,7 @@ entity
 	"origin" "1143.44 1603.11 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12792,7 +12791,7 @@ entity
 entity
 {
 	"id" "27770"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "7.2598 255.38 -1.88797"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12821,7 +12820,7 @@ entity
 	"origin" "2121.28 -1237.43 129.746"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12899,7 +12898,7 @@ entity
 entity
 {
 	"id" "27848"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0.011179 257.643 -3.14101"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12928,7 +12927,7 @@ entity
 	"origin" "1551.2 1918.72 -3.23011"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12937,7 +12936,7 @@ entity
 entity
 {
 	"id" "27900"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "3.42757 142.025 -7.9892"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -12966,7 +12965,7 @@ entity
 	"origin" "1929.21 -1253.48 -5.57553"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -12975,7 +12974,7 @@ entity
 entity
 {
 	"id" "27904"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "2.68174 82.7069 -13.9512"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13004,7 +13003,7 @@ entity
 	"origin" "1884.65 -1148.1 -41.8561"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13013,7 +13012,7 @@ entity
 entity
 {
 	"id" "27908"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0.419334 213.001 0.272324"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13051,7 +13050,7 @@ entity
 entity
 {
 	"id" "27955"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 124.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13080,7 +13079,7 @@ entity
 	"origin" "1748.9 -1323.4 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13089,7 +13088,7 @@ entity
 entity
 {
 	"id" "27975"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 91 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13118,7 +13117,7 @@ entity
 	"origin" "1711.64 -1493.23 9.07709"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13143,7 +13142,7 @@ entity
 entity
 {
 	"id" "28145"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "7.2598 79.88 -1.88797"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13172,7 +13171,7 @@ entity
 	"origin" "2125.89 -1661.11 129.746"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13181,7 +13180,7 @@ entity
 entity
 {
 	"id" "27824"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0.617979 295.939 -3.14101"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13210,7 +13209,7 @@ entity
 	"origin" "1919.7 -1154.47 121.426"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13219,7 +13218,7 @@ entity
 entity
 {
 	"id" "28196"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "72.5056 241.369 56.8743"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13248,7 +13247,7 @@ entity
 	"origin" "2102.77 -1258.18 298.756"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13257,7 +13256,7 @@ entity
 entity
 {
 	"id" "28251"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "79.0549 136.403 -35.7127"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13286,7 +13285,7 @@ entity
 	"origin" "2125.5 -1563.01 285.253"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13295,7 +13294,7 @@ entity
 entity
 {
 	"id" "28286"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13324,7 +13323,7 @@ entity
 	"origin" "2185.6 -1358.23 107.837"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13333,7 +13332,7 @@ entity
 entity
 {
 	"id" "28371"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 91 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13362,7 +13361,7 @@ entity
 	"origin" "2131.16 -1442.53 -98.5981"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13371,7 +13370,7 @@ entity
 entity
 {
 	"id" "28425"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 143 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13400,7 +13399,7 @@ entity
 	"origin" "1758.24 -1744.08 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13409,7 +13408,7 @@ entity
 entity
 {
 	"id" "28433"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "22.7331 3.3539 -11.6203"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13438,7 +13437,7 @@ entity
 	"origin" "2288.72 -1365.57 29.1148"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13447,7 +13446,7 @@ entity
 entity
 {
 	"id" "28488"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "23.2202 352.921 0.217345"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13476,7 +13475,7 @@ entity
 	"origin" "2280.75 -1555.27 29.1148"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13485,7 +13484,7 @@ entity
 entity
 {
 	"id" "28547"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13514,7 +13513,7 @@ entity
 	"origin" "2190.88 -1593.49 107.837"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13523,7 +13522,7 @@ entity
 entity
 {
 	"id" "29451"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 61.5 16"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13552,7 +13551,7 @@ entity
 	"origin" "-503.811 1529.38 -4.32706"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13561,7 +13560,7 @@ entity
 entity
 {
 	"id" "29483"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0 90 16"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13599,7 +13598,7 @@ entity
 entity
 {
 	"id" "29580"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.64962 90.7595 19.1438"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13628,7 +13627,7 @@ entity
 	"origin" "-470.128 -1145.44 -9.89003"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13637,7 +13636,7 @@ entity
 entity
 {
 	"id" "29584"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0 90 16"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13675,7 +13674,7 @@ entity
 entity
 {
 	"id" "29644"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 270 0.5"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13704,7 +13703,7 @@ entity
 	"origin" "-482.529 -1504.01 -4.32706"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13713,7 +13712,7 @@ entity
 entity
 {
 	"id" "29763"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 310.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13742,7 +13741,7 @@ entity
 	"origin" "-593.28 -1205.12 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13751,7 +13750,7 @@ entity
 entity
 {
 	"id" "29779"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 26.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13780,7 +13779,7 @@ entity
 	"origin" "-556.105 -1533.49 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13789,7 +13788,7 @@ entity
 entity
 {
 	"id" "29999"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 4 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13818,7 +13817,7 @@ entity
 	"origin" "-502.355 -12.8601 -3.23011"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13827,7 +13826,7 @@ entity
 entity
 {
 	"id" "30054"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 245.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13856,7 +13855,7 @@ entity
 	"origin" "529.415 -17.4147 -3.23011"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13865,7 +13864,7 @@ entity
 entity
 {
 	"id" "30617"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 341 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13894,7 +13893,7 @@ entity
 	"origin" "-1830.6 552.681 6.53784"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13903,7 +13902,7 @@ entity
 entity
 {
 	"id" "30653"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 344.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13932,7 +13931,7 @@ entity
 	"origin" "-1594.27 521.73 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13941,7 +13940,7 @@ entity
 entity
 {
 	"id" "30657"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 125.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -13970,7 +13969,7 @@ entity
 	"origin" "-1411.49 310.393 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -13979,7 +13978,7 @@ entity
 entity
 {
 	"id" "30661"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 241.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14008,7 +14007,7 @@ entity
 	"origin" "-1617.72 74.3441 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14284,7 +14283,7 @@ entity
 entity
 {
 	"id" "32475"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 26.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14313,7 +14312,7 @@ entity
 	"origin" "-654 -574.667 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14322,7 +14321,7 @@ entity
 entity
 {
 	"id" "32495"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 294 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14351,7 +14350,7 @@ entity
 	"origin" "-565.12 546.56 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14360,7 +14359,7 @@ entity
 entity
 {
 	"id" "32515"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 144.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14389,7 +14388,7 @@ entity
 	"origin" "1899 -1296.46 -3.23011"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14398,7 +14397,7 @@ entity
 entity
 {
 	"id" "32531"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 19.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14427,7 +14426,7 @@ entity
 	"origin" "1903.54 -1599.66 -3.67874"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14436,7 +14435,7 @@ entity
 entity
 {
 	"id" "32599"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "0.617979 178.439 -3.14101"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14474,7 +14473,7 @@ entity
 entity
 {
 	"id" "32646"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0.617979 178.439 -3.14101"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14503,7 +14502,7 @@ entity
 	"origin" "677.57 -1466.57 1.78281"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14526,7 +14525,7 @@ entity
 entity
 {
 	"id" "32677"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_clientside"
 	"angles" "-5.7165 193.004 -4.60074"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14779,7 +14778,7 @@ entity
 entity
 {
 	"id" "32717"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 124.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14808,7 +14807,7 @@ entity
 	"origin" "475.2 704 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14817,7 +14816,7 @@ entity
 entity
 {
 	"id" "32725"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 3.50001 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14846,7 +14845,7 @@ entity
 	"origin" "551.222 1188.22 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14855,7 +14854,7 @@ entity
 entity
 {
 	"id" "32741"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 124.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14884,7 +14883,7 @@ entity
 	"origin" "566 -1121.33 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14893,7 +14892,7 @@ entity
 entity
 {
 	"id" "32753"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 14.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14922,7 +14921,7 @@ entity
 	"origin" "574 -690.667 0.0255861"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14931,7 +14930,7 @@ entity
 entity
 {
 	"id" "32765"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 296 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14960,7 +14959,7 @@ entity
 	"origin" "454.815 -713.302 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -14969,7 +14968,7 @@ entity
 entity
 {
 	"id" "32796"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 25.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -14998,7 +14997,7 @@ entity
 	"origin" "471.833 -831.185 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15007,7 +15006,7 @@ entity
 entity
 {
 	"id" "32831"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 25.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15036,7 +15035,7 @@ entity
 	"origin" "612.445 1021 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15045,7 +15044,7 @@ entity
 entity
 {
 	"id" "32835"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 273.5 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15074,7 +15073,7 @@ entity
 	"origin" "484.315 938.883 -1.12211"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15083,7 +15082,7 @@ entity
 entity
 {
 	"id" "32870"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "13.1012 163.017 -2.48817"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15112,7 +15111,7 @@ entity
 	"origin" "479.549 1053.28 -10.9919"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15121,7 +15120,7 @@ entity
 entity
 {
 	"id" "32878"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "29.2252 224.636 12.8423"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15150,7 +15149,7 @@ entity
 	"origin" "496.568 1011.18 -22.1552"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15159,7 +15158,7 @@ entity
 entity
 {
 	"id" "32925"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.64962 77.2595 19.1438"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15188,7 +15187,7 @@ entity
 	"origin" "-523.986 -252.857 -21.5184"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15197,7 +15196,7 @@ entity
 entity
 {
 	"id" "32952"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "1.64962 102.759 19.1438"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15226,7 +15225,7 @@ entity
 	"origin" "-486.801 206.582 -23.8441"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15235,7 +15234,7 @@ entity
 entity
 {
 	"id" "33047"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 178.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15264,7 +15263,7 @@ entity
 	"origin" "421.423 1564.31 -3.30515"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15273,7 +15272,7 @@ entity
 entity
 {
 	"id" "33063"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 226.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15302,7 +15301,7 @@ entity
 	"origin" "832 1856 -3.30515"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15311,7 +15310,7 @@ entity
 entity
 {
 	"id" "33071"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 281.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15340,7 +15339,7 @@ entity
 	"origin" "640 1920 -3.30515"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15349,7 +15348,7 @@ entity
 entity
 {
 	"id" "33083"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 281.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15378,7 +15377,7 @@ entity
 	"origin" "1381.24 1769.74 0.283867"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15387,7 +15386,7 @@ entity
 entity
 {
 	"id" "33091"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 238.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15416,7 +15415,7 @@ entity
 	"origin" "1849.54 871.314 0.283836"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15425,7 +15424,7 @@ entity
 entity
 {
 	"id" "33103"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 160.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15454,7 +15453,7 @@ entity
 	"origin" "1829.98 -350.417 0.283836"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15463,7 +15462,7 @@ entity
 entity
 {
 	"id" "33111"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 238.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15492,7 +15491,7 @@ entity
 	"origin" "1740.42 -230.132 0.283897"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15501,7 +15500,7 @@ entity
 entity
 {
 	"id" "33134"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 238.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15530,7 +15529,7 @@ entity
 	"origin" "1779.87 640.911 -1.52588e-005"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15539,7 +15538,7 @@ entity
 entity
 {
 	"id" "33138"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 238.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15568,7 +15567,7 @@ entity
 	"origin" "883.592 1739.52 -1.52588e-005"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15577,7 +15576,7 @@ entity
 entity
 {
 	"id" "33142"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 340.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15606,7 +15605,7 @@ entity
 	"origin" "505.73 1867.54 1.52588e-005"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15615,7 +15614,7 @@ entity
 entity
 {
 	"id" "33158"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 340.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15644,7 +15643,7 @@ entity
 	"origin" "462.493 151.951 -1.52588e-005"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15653,7 +15652,7 @@ entity
 entity
 {
 	"id" "33162"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 340.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15682,7 +15681,7 @@ entity
 	"origin" "526.139 -1535.18 7.62939e-006"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15691,7 +15690,7 @@ entity
 entity
 {
 	"id" "33166"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 276.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15720,7 +15719,7 @@ entity
 	"origin" "437.92 -707.543 -7.62939e-006"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15729,7 +15728,7 @@ entity
 entity
 {
 	"id" "33182"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 276.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15758,7 +15757,7 @@ entity
 	"origin" "420.247 -812.679 0"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15767,7 +15766,7 @@ entity
 entity
 {
 	"id" "33201"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 276.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15796,7 +15795,7 @@ entity
 	"origin" "1906.1 -1159.26 0.057888"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15805,7 +15804,7 @@ entity
 entity
 {
 	"id" "33205"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 216.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15834,7 +15833,7 @@ entity
 	"origin" "1872.74 -697.871 0.057888"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15843,7 +15842,7 @@ entity
 entity
 {
 	"id" "33213"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 5.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15872,7 +15871,7 @@ entity
 	"origin" "1905.38 -156.143 0.0578575"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15881,7 +15880,7 @@ entity
 entity
 {
 	"id" "33225"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 303.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15910,7 +15909,7 @@ entity
 	"origin" "1769.95 1010.45 0.057827"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15919,7 +15918,7 @@ entity
 entity
 {
 	"id" "33233"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 276.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15948,7 +15947,7 @@ entity
 	"origin" "1349.05 1820.59 0.057888"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15957,7 +15956,7 @@ entity
 entity
 {
 	"id" "33237"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 276.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -15986,7 +15985,7 @@ entity
 	"origin" "751.848 1865.43 0.0578575"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -15995,7 +15994,7 @@ entity
 entity
 {
 	"id" "33241"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 276.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16024,7 +16023,7 @@ entity
 	"origin" "835.514 1788.25 0.0578575"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16033,7 +16032,7 @@ entity
 entity
 {
 	"id" "33256"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 334.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16062,7 +16061,7 @@ entity
 	"origin" "525.353 1743.4 0.260754"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16071,7 +16070,7 @@ entity
 entity
 {
 	"id" "33272"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 307.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16100,7 +16099,7 @@ entity
 	"origin" "543.588 1090.85 -4.58438"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16109,7 +16108,7 @@ entity
 entity
 {
 	"id" "33284"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 258.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16138,7 +16137,7 @@ entity
 	"origin" "444.741 -955.177 -4.95154"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16147,7 +16146,7 @@ entity
 entity
 {
 	"id" "33425"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 59.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16176,7 +16175,7 @@ entity
 	"origin" "-903.157 -1649.85 2.73407"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16185,7 +16184,7 @@ entity
 entity
 {
 	"id" "33429"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 13.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16214,7 +16213,7 @@ entity
 	"origin" "-1794.3 -756.552 2.7341"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16223,7 +16222,7 @@ entity
 entity
 {
 	"id" "33437"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 59.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16252,7 +16251,7 @@ entity
 	"origin" "-1604.4 701.48 2.7341"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16261,7 +16260,7 @@ entity
 entity
 {
 	"id" "33448"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 109.526 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16290,7 +16289,7 @@ entity
 	"origin" "-1289.69 1496.05 2.7341"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16299,7 +16298,7 @@ entity
 entity
 {
 	"id" "33460"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "0 59.026 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16328,7 +16327,7 @@ entity
 	"origin" "-867.218 1629.31 2.7341"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16945,7 +16944,7 @@ entity
 entity
 {
 	"id" "35287"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-41.535 268.2 -90.6716"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -16974,7 +16973,7 @@ entity
 	"origin" "0 2240 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -16983,7 +16982,7 @@ entity
 entity
 {
 	"id" "35978"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-41.535 268.2 -90.6716"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -17012,7 +17011,7 @@ entity
 	"origin" "0 2048 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -17021,7 +17020,7 @@ entity
 entity
 {
 	"id" "35982"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-41.535 268.2 -90.6716"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -17050,7 +17049,7 @@ entity
 	"origin" "0 1792 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -17059,7 +17058,7 @@ entity
 entity
 {
 	"id" "35986"
-	"classname" "prop_dynamic"
+	"classname" "prop_static"
 	"angles" "-41.535 268.2 -90.6716"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
@@ -17088,7 +17087,7 @@ entity
 	"origin" "0 1600 128"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[11000 10000]"
@@ -17397,7 +17396,7 @@ entity
 	"id" "37317"
 	"classname" "info_courier_spawn_dire"
 	"angles" "0 0 0"
-	"origin" "1280 -0 8"
+	"origin" "1280 0 8"
 	editor
 	{
 		"color" "220 30 220"
